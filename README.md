@@ -32,7 +32,6 @@ Here are some ideas to get you started:
 <!--주의! 꼭 자신있는 언어, 플랫폼만 올려놓으세요!!!-->
 ## Skills ෆ
 ### Platforms & Languages 💻
-![C](https://img.shields.io/badge/C-A8B9CC.svg?&style=for-the-badge&logo=C&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000.svg?&style=for-the-badge&logo=Oracle&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white)
